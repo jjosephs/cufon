@@ -3,6 +3,8 @@
  * Licensed under the MIT license.
  *
  * @version ${Version}
+ *
+ * Julian's edits!
  */
 
 var Cufon = (function() {
